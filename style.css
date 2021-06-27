@@ -1,3 +1,45 @@
-#Mamun:hover{
-  color:gray;
+.panda-card{
+  border: 0;
+}
+.panda-footer{
+  background-color:white ;
+  border: 0;
+}
+.categories img{
+  width: 100px;
+
+}
+.top{
+  background-color:#fceae8;
+  border-radius: 10px;
+  margin-top: 30px;
+}
+.sadiq{
+  background-color:#fceae8 ;
+  border-radius: 10px;
+}
+ button{
+  background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    font-weight: 500;
+}
+input{
+ width: 100%;
+ padding: 3%;
+ margin-bottom:5% ;
+ border-radius: 5px;
+ border: 0;
+
+}
+.top h3{
+  color:#ff2c80;
+}
+footer{
+  color: gray;
+  font-size: 23px;
+  padding-top: 8%;
+  padding-bottom: 5%;
 }
